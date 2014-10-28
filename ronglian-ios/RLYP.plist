@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://git.oschina.net/geeekr/ucdisk-soho/raw/master/UCDISK.ipa</string>
+					<string>https://github.com/y7tech/projects-dist/blob/master/ronglian-ios/RLYP.ipa?raw=true</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.sohochina.ucdisk</string>
+				<string>com.icloudq.ucdisk</string>
 				<key>bundle-version</key>
-				<string>1.6.0</string>
+				<string>2.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>SOHO云盘</string>
+				<string>荣联云盘</string>
 			</dict>
 		</dict>
 	</array>
