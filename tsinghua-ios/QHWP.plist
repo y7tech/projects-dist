@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://git.oschina.net/geeekr/ucdisk-soho/raw/master/UCDISK.ipa</string>
+					<string>https://github.com/y7tech/projects-dist/blob/c6be4efbe02f182b4dc294459f2fec8fd6a322b3/tsinghua-ios/QHWP.ipa?raw=true</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.sohochina.ucdisk</string>
+				<string>com.icloudq.ucdisk</string>
 				<key>bundle-version</key>
-				<string>1.6.0</string>
+				<string>2.0.13</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>SOHO云盘</string>
+				<string>清华五道口</string>
 			</dict>
 		</dict>
 	</array>
